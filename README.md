@@ -1,3 +1,4 @@
 # Customer_Segmentation_Project
 In the customer segmentation project, I've divided the customer base into ten segments based on RFM scores. The three most profitable customer segments are then analyzed in terms of their demographics and purchase preferences. Leveraging these segments by identifying key traits, we target potentially profitable customers within a new customer list with similar traits. This method enhances precision in marketing efforts, tailoring strategies to distinct needs and preferences.
+
 The outcome of this project is a streamlined approach to customer engagement, optimizing resources, and maximizing profitability. This data-driven initiative not only refines our understanding of existing customers but also guides acquisition efforts toward individuals likely to contribute significantly to our business success.
